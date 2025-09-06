@@ -1,4 +1,3 @@
-Perfect ✅ Here’s a polished **README.md** for your **Bike Sharing Demand Prediction** project:
 
 
 # 🚲 Bike Sharing Demand Prediction
@@ -75,23 +74,5 @@ The app will start at: **[http://localhost:8501](http://localhost:8501)**
 * Scatter plot of temperature vs. bike counts
 * Line plot of demand trends over time
 
----
 
-## 🖼️ Screenshots
-
-(Add Streamlit dashboard screenshots here for portfolio)
-
----
-
-## 👨‍💻 Author
-
-Developed by **[Uma Sai Singamaneni](https://github.com/umasai01)**
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – feel free to use and modify it.
-
-```
 
